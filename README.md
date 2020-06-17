@@ -4,8 +4,8 @@ This is a collection of resources that might prove useful for people interested 
 
 The collection consists of:
 
-* **vendorCertifications.md** - A list of certifications from vendors who supply equipment and software for MSS.
-
+* **vendorCertifications.md** - A list of relevant certifications from vendors who supply equipment and software for MSS.
+* **nonVendorCertifications.md** - A list of relevant certifications from organisations who aren't vendors.
 
 For the most part, non-MSS cybersecurity courses, vendors, certifications etc. have not been included.
 
