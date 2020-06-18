@@ -31,26 +31,26 @@ The learning resources have and require the most information. While some effort 
 
 The current format for the list of learning resources is:
 
- # Technology
- <details>
-   <summary>View Details</summary>
+## Technology
+<details>
+  <summary>View Details</summary>
   
- <details>
-   <summary>Course Name</summary>
-  
-  
- URL
-  
- Course provided by **Provider**
-  
- CourseMode - TimeToComplete - Cost
+<details>
+  <summary>Course Name</summary>
   
   
- CourseSummary
+URL
   
- Notes
- </details>
-
+Course provided by **Provider**
+  
+CourseMode - TimeToComplete - Cost
+  
+  
+CourseSummary
+  
+Notes
+</details>
+</details>
 ## Steps for making a contribution
 
 If you want to contribute a resource, update a resources, report an error/improvement etc., you'll need a [GitHub account](https://github.com/join)!
