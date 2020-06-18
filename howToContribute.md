@@ -51,6 +51,7 @@ CourseSummary
 Notes
 </details>
 </details>
+
 ## Steps for making a contribution
 
 If you want to contribute a resource, update a resources, report an error/improvement etc., you'll need a [GitHub account](https://github.com/join)!
