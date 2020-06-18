@@ -1,9 +1,13 @@
 # How To Contribute
 (This guide adapted from the home of the [Awesome](https://github.com/sindresorhus/awesome/blob/master/contributing.md) list)
 
-## What information is needed/How the information is organised
+## What information is needed?/How the information is organised
 
-While some effort has been made to obtain a complete set of information for each entry, sometimes the information doesn't exist, sometimes it doesn't apply, and sometimes it just wasn't easily obtainable (e.g. it may have been behind a paywall). If you have information that can complete an entry, or if you have a new entry to add, or if you find some information is incorrect, here's the format the information is in which you should use for your contribution:
+For the list of course providers and certification providers, the format of information is generally just a summary of important information. Look at a few entries and try to duplicate that information for any new entries. 
+
+For the certification providers, a list of *relevant* certifications is required. 
+
+The learning resources have and require the most information. While some effort has been made to obtain a complete set of information for each entry, sometimes the information doesn't exist, sometimes it doesn't apply, and sometimes it just wasn't easily obtainable (e.g. it may have been behind a paywall). If you have information that can complete an entry, or if you have a new entry to add, or if you find some information is incorrect, here's the information which you should include in your contribution:
 
 * Technology - if the course relates to a specific technology (e.g. Splunk, AWS, Git) add it here. Separate technologies with a comma, for example `python, git`. If it's not specifically about a technology, leave this blank.
 
@@ -11,7 +15,7 @@ While some effort has been made to obtain a complete set of information for each
 
 * CourseName - the name of the course
 
-* URL - direct url for the course, not a generic url for the course provider
+* URL - direct url for the course, not a generic url for the course provider unless no other URL is available.
 
 * CourseMode - this should be `elearning` or `ILT` for instructor led training. Where both are available, put `elearning`.
 
@@ -24,6 +28,28 @@ While some effort has been made to obtain a complete set of information for each
 * Topics - where possible, copy the syllabus of the course here, one topic per line. If the course is composed of multiple sub-courses, just list the component courses here.
 
 * Notes - if there's anything particular to note about the course, add it here.
+
+The current format for the list of learning resources is:
+
+ # Technology
+ <details>
+   <summary>View Details</summary>
+  
+ <details>
+   <summary>Course Name</summary>
+  
+  
+ URL
+  
+ Course provided by **Provider**
+  
+ CourseMode - TimeToComplete - Cost
+  
+  
+ CourseSummary
+  
+ Notes
+ </details>
 
 ## Steps for making a contribution
 
